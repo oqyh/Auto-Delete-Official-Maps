@@ -113,7 +113,7 @@ ConVar g_DeleteMap[CSGO_MAP_COUNT];
 public Plugin myinfo = 
 {
 	name = "Auto Delete Official Maps",
-	author = "Gold KingZ, spirt",
+	author = "Gold KingZ, stickz",
 	description = "Deletes Official CSGO Maps If You Use Custom Maps",
 	version = "1.0.0",
 	url = "https://github.com/oqyh"
