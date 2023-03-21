@@ -1,4 +1,4 @@
-# [CSGO] Auto Delete Official Maps (1.0.0)
+# [CSGO] Auto Delete Official Maps (1.0.1)
 
 ### Deletes Official CSGO Maps If You Use Custom Maps
 
@@ -7,6 +7,11 @@
 
 ## .:[ Change Log ]:.
 ```
+(1.0.0)
+- Fix Bug
+- Added Last Maps To The List
+- Fix ConVars Can Not Be Disabled
+
 (1.0.0)
 - Initial Release
 ```
